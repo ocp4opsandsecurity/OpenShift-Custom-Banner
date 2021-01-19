@@ -1,0 +1,9 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleNotification
+metadata:
+  name: example-banner
+spec:
+  text: This is an example notification message. (to add a link to the banner review docs @https://docs.openshift.com/container-platform/4.6/web_console/customizing-the-web-console.html)
+  location: BannerTop 
+  color: '#fff'
+  backgroundColor: '#0088ce'
