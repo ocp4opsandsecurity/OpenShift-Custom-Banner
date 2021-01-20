@@ -55,7 +55,8 @@ oc create secret generic login-template --from-file=login.html -n openshift-conf
      unspecified, the default provider selection page is used. The namespace for
      this secret is openshift-config.
 
-
+More Info at 
+https://github.com/ocp4opsandsecurity/OpenShift-Custom-Banner.git
 
 
 
