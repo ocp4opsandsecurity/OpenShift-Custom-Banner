@@ -56,7 +56,7 @@ oc create secret generic login-template --from-file=login.html -n openshift-conf
      this secret is openshift-config.
 
 More Info at 
-https://github.com/ocp4opsandsecurity/OpenShift-Custom-Banner.git
+https://docs.openshift.com/container-platform/4.6/web_console/customizing-the-web-console.html
 
 
 
